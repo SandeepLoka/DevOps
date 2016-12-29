@@ -1,0 +1,174 @@
+The responsibilities of the release and dev ops engineer will include :
+
+Perform Software Configuration Management, Build & Deployment Management.
+Automating the Build & Deployment environment with relative tools.
+Enabling Continuous Build & Continuous delivery.
+Integrate GIT VCS with CI tools.
+Troubleshooting Build & deployment issues.
+Experience in deploying and maintaining MEAN Stack products.
+Experience working with AWS (or other cloud provider), Linux, Jenkins and Github.
+Strong knowledge of TCP/IP network, load balancing, firewalls and VPN.
+Nice to have experience with Chef, Puppet or equivalent.
+Experience in setting up back-up and restore mechanism for the DB and other relevant systems.
+
+
+
+Should have deployed DevOps practices across multiple products with quantitative improvements in engineering process/ delivery ; 
+Build and Deployment automation using CI tools, Scripting tools such as Shell/ Perl/ Python ; Experiences in Jenkins/ Bamboo/ CruiseControl or any other Continuous Integration (CI) tool is must. Experience in Build Automation Tools such as Maven / Ant / Make is must. 
+SCM Hook automation. 
+Proficiency in any SCM tools such as (SVN / Git / TFS / Perforce etc.) is must. 
+Environment/ Sytem Automation using Puppet/ Chef 
+Experience in IT Infrastructure automation tools using Docker 
+Knowledge in Application Server Deployment and Administration (Weblogic/ Websphere/ JBoss) and WebServers such as Apache HTTP, Tomcat, Glassfish, IIS. 
+Expertize in troubleshooting issue across technologies. 
+
+Required Knowledge: Knowledge on Red Hat Enterprise Linux, CentOS, Debian, Ubuntu, Suse, Windows Servers. 
+Knowledge on ITIL Concepts implementation in daily work. 
+Knowledge on J2EE, PHP platform. 
+Knowledge on Cloud Technologies such as VCloud or any other private/ public/ hybrid cloud will be an added advantage. Understanding and Implementation: 
+Work with product teams to identify and implement automation in appropriate areas. 
+Evangelizing DevOps practices and automation internally and externally (forums, community contribution). 
+Testing of new products/ tools and updates in DevOps space for continuous improvement.Maintenance of a Continuous Integration platform for our infrastructure code. 
+Clear understanding on Cloud Concepts.
+
+Devops Developer:
+Must have Solid Jenkin expreriece 
+should have worked With SSO experiene
+Experience in Cloudbees (Added Advantange)
+
+
+Strong experience in development/configuration.
+Strong experience in build/release.
+Working experience on Operating Systems Linux, Unix.
+Excellent knowledge of shell scripts.
+Knowledge of Virtualization Platforms VMware/KVM.
+Knowledge of Containerization Tools LXC/Docker.
+Working experience on Configuration Management Puppet/Chef/Ansible.
+Working experience on Test and Build Systems Jenkins/Maven
+Knowledge of Application Deployment tool Capistrano.
+Working experience on Application Servers Jboss/Websphere/Web logic.
+Primary Skills:
+DevOps Champion / Evangelist
+Secondary Skills:
+CI/CD, GIT, AWS
+
+
+
+
+Bachelor in Computer Science/ Information Technology or equivalent
+3-plus years of expertise in agile DevOps environment
+Good understanding of continuous delivery using tools like Release manager, Chef, puppet etc
+Experience in designing and implementation of continuous delivery platform 
+Create new and improve existing workflows within agile software development lifecycle, which includes software engineering tools, enhancements and their integration, continuous integration and build process, continuous delivery
+Familiarity with monitoring systems like Nagios, Splunk 
+
+
+
+Required Skills : IIS setup and configuration WCF setup and configuration Exposure to Apache and Tomcat Exposure in Installing/ Configuring/ Maintaining Jenkins, Octopus, and Fortify
+
+Nice to have : Exposure to AutoSys and PowerShell expertise in order to set up batch jobsIBM WebSphere Application Server (along with IBM HTTP Server)
+
+
+
+
+We are looking for DevOps Engineer (AWS) with immediate joining for prestigious client at Bangalore.
+
+Locations: Bangalore
+
+Job Description
+
+Good communication skills (this is important)
+
+- Hands on Linux Administration (Installation, Configuration & Troubleshooting)
+
+- Advance Application Skills (Webserver, AppServer-Installation, Configuration & Troubleshooting, Nginx)
+
+- Basic Database skills (MySQL, NoSQL)
+
+- Hands on Build & Deployment Skills (Jenkins, Chef Automation - basic)
+
+- Basic Scripting Skills (Shell, Ruby)
+
+- Willingness to work on POC (Proof of Concept) by learning New Technologies
+
+
+
+
+Job Requirements : 
+Development exposure to .NET and Java technologies. Experience with Ant, Maven, nAnt, BuildForge and Perl for script automation. Rational Clearcase management, Subversion adminstration and deployment skills, training, and experience. Knowledge base on Websphere, Weblogic Application Servers. Experience with Atlassian tools like Bamboo, Jira, confluence. Experience with Db2, Oracle and SQL databases preferred. Strong Linux and Windows. 
+
+
+
+2+ years of experience in CI CD (DevOps) tools and framework such as GIT, SVN, Jenkins/Hudson and TFS.
+
+Skills must have: PowerShell, Unix OS, Shell Scripting
+
+Good to have: 
+Bamboo, Chef, Puppet, Perl and Web Server/Application Server deployments and administration. Experience in Cloud deployment (AWS/Azure).
+
+
+
+5+ years of experience with a proven skill-set and experience across various Cloud & On-Prem related technologies. Following skills are mandatory:
+
+Core Infrastructure 
+o	Windows Server 2012/2008 R2 or Unix \ Centos Operating system Skills
+o	Virtualization - Hyper-V/RDS/Xen/App-V
+o	Cloud IaaS offerings Azure/AWS
+PowerShell scripting to manage and/or perform administrative task.
+Shell scripting on Centos (or other unix flavors)
+Experience in Automated Configuration Management
+Infrastructure provisioning - Chef, Puppet, Ansible 
+Deploying & supporting n-tier .Net based enterprise applications
+Experience with Performance profiling and Application Performance Management NewRelic, AppInsight
+Understanding and/or experience in Microsoft System Center (SCCM, SCOM, SCSM)
+Previous experience in architecting and implementing enterprise class infrastructure solutions
+Build DevOps solutions using latest tools and technologies
+Version Control using Git and Git repository collaboration with Azure
+Administering and troubleshooting on application servers, servlet containers, and web servers (e.g. WebSphere, Apache Tomcat, Jetty, Nginx, Mongrel, Microsoft IIS 7.5 and above, Apache HTTP server)
+Expertise on Continuous integration and delivery - Azure, Jenkins, Maven, Artifactory
+Strong troubleshooting skills. 
+Understanding of Information Security best practices.
+Strong verbal and writing communication skills. 
+Excellent leadership and customer service skills
+
+
+Nice to have skills:
+Experience with identifying & resolving performance bottlenecks
+Exposure to cloud platforms like Rackspace, Google App Engine, Cloud Foundry etc
+Following Certifications a big plus:
+MCSE: Server Infrastructure
+MCSA: Windows Server 2012
+MCSA: Windows Server 2008
+MTA IT infrastructure
+ITIL Framework
+
+
+
+
+Job Description:
+DEVOPS ALONG WITH TFS SKILLS HANDS ON EXPERIENCE 
+
+ MINIMUM 2 YEARS IS MANDATORY (with minimum 2 years in DevOps/CICD area, TFS and sound scripting experience)
+
+Experience Level - 6+ Years (with minimum 2 years in DevOps/CICD area, TFS and sound scripting experience)
+
+At least 6 years of IT experience
+TFS Hands on Experience is a must for 2+ years 
+Strong hands on experience and knowledge on DevOps Tools: 
+o Chef/Puppet, CA Release Automation (aka Nolio), Environment Management, Change Management Processes, Git, PowerShell, .NET / MSBuild
+o Jenkins, Selenium / Cucumber / HP ALM, Nexus / Artifactory, Websphere, IIS, Bash / Perl / NPM / NodeJS / Java / Ant / Maven
+o SSL Certificates, Sonar, HP Fortify, Splunk, Windows, Linux, CA Rally, CA LISA
+Experience in implementing Continuous Integration or Continuous Delivery processes in large engineering teams.
+Experience in managing and integrating test automation into various points in a deployment pipeline.
+Flexible and open to learn new tools/technologies.
+o Manage trouble tickets, identify and reproduce potential product and performance issues 
+o Interact with the development team through our Development Process 
+o Deliver solid technical designs
+o Clear, friendly and technically-focused communication 
+o Ability to communicate technical issues to a non-technical audience (including managers and executives) 
+o Ability to prioritize multiple tasks and projects in a fast paced environment 
+o Adaptable, flexible and autonomous
+Can do attitude for complex tasks
+
+
+

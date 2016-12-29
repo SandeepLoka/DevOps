@@ -1,0 +1,55 @@
+IAM users sign-in link:
+
+https://lokaerj.signin.aws.amazon.com/console
+
+GitHub:
+SandeepLoka
+pwd: qazws@123456
+
+DockerHub:
+SandeepLoka
+pwd: qazws@123456
+
+Amazon:
+sandeep.fmw11@gmail.com
+hanuman@123
+
+sudo apt-get update
+
+sudo apt-get install git
+
+sudo apt-get install awscli-------for intalling aws cli
+
+after installing it configure the aws AK and SK. You will get it from your account in aws by clicking on security credentials.
+
+then issue aws configure and enter AK and SK. Now you will be able to launch instance and other stuff from the command prompt.
+
+sudo apt-get update
+
+sudo apt-get install ansible----with this you will get the old ansible--from ubuntu package manager it will take.
+
+
+aws ec2 describe-instances
+
+better to install python related softwares with PIP
+
+
+sudo apt-get install python-pip-------First install PIP using this command. This will first install python and then PIP.
+
+sudo apt-get remove ansible
+
+sudo apt-get install python-pip
+
+sudo pip install awscli
+
+/usr/local/bin/ansible --version
+
+ansible --version
+
+which ansible
+
+sudo apt-cache search cryptography
+
+sudo apt-get remove --purge awscli
+
+dpkg -la | grep awscli
